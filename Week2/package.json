@@ -1,0 +1,23 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "Week 2 SE Class (Nodejs Tutorial)",
+  "homepage": "https://github.com/s225598173/SIT725-2025#readme",
+  "bugs": {
+    "url": "https://github.com/s225598173/SIT725-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s225598173/SIT725-2025.git"
+  },
+  "license": "MIT",
+  "author": "Aayushree Sapkota",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
