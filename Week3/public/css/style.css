@@ -10,7 +10,7 @@
 }
 .main-body {
   background-color: #f5f5f5;
-  background-image: linear-gradient(315deg, #f5f5f5 0%, #e34234 74%);
+  background-image: linear-gradient(315deg, #f5f5f5 0%, #752306 74%);
   color: white;
   min-height: calc(100vh);
 }
@@ -19,6 +19,6 @@
   height: 400px;
 }
 .click-me-button {
-  background-color: #ee6e73;
+  background-color: #702109;
   margin-top: 50px;
 }
